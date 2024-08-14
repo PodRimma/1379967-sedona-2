@@ -2,7 +2,7 @@
 
 * Студент: [Римма Подорожная](https://up.htmlacademy.ru/htmlcss-individual/2/user/1379967).
 * Наставник: [Римма Подорожная](https://htmlacademy.ru/profile/id1379967).
-
+* Сайт: [Мой спроект Седона](https://podrimma.github.io/1379967-sedona-2/)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
