@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Римма Подорожная](https://up.htmlacademy.ru/htmlcss-individual/2/user/1379967).
-* Наставник: `Неизвестно`.
+* Наставник: [Римма Подорожная](https://htmlacademy.ru/profile/id1379967).
 
 ---
 
